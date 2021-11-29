@@ -142,7 +142,7 @@ input,
 
 .tasks-list .tasks-item.edit-mode input[type="text"] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .tasks-list .tasks-item.edit-mode .label {
