@@ -16,10 +16,10 @@
 .header .header-info {
   font-family: fantasy, cursive;
 }
-
 @media (max-width:768px) {
-  .header { text-align: center;
-}
+  .header { 
+    text-align: center;
+  }
 }
 .tasks {
   display: block;
