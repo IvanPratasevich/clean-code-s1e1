@@ -140,7 +140,7 @@ input,
   display: none;
 }
 
-.tasks-list .tasks-item.edit-mode input[type="text"] {
+.tasks-list .tasks-item.edit-mode .input {
   display: inline-block;
   width: 224px;
 }
